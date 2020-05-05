@@ -1,6 +1,6 @@
 /*
  *  Universidade de São Paulo - ICMC
- *  Gabriel de Oliveira Guedes Nogueira (Talendar)
+ *  Gabriel Nogueira (Talendar)
  */
 
 #include <stdio.h>
